@@ -1,15 +1,17 @@
+I was this below but have become a new project, a fork!  
+
+My old identity, this banner below:
+
 ![Perth Mint Gold Token (PMGT)](docs/pmgt_banner.png)
 
-The Perth Mint Gold Token (PMGT) is an ERC20 compliant token, each representing 1 fine troy ounce of physical gold
-securely stored in The Perth Mint's central bank grade vaults.
+The StarFire Gold Bond fiat token, a Fork of the Perth Mint Gold Token (PMGT) is an ERC20 compliant token, each representing 1 fine troy ounce of physical gold securely stored in The Perth Mint's central bank grade vaults, or another trusted storage, depending on the country of origin.
 
-Developed by InfiniGold, the tokens are 100% backed by GoldPass certificates issued by The Perth Mint, the world's
-largest refiner of newly mined gold.  Every ounce of gold is guaranteed by the highly rated sovereign entity - the
-Government of Western Australia.
+Developed by InfiniGold originally, and now, by takertao, the tokens are 100% backed by GoldPass certificates issued by The Perth Mint, the world's largest refiner of newly mined gold.  Every ounce of gold is guaranteed by the highly rated sovereign entity - the
+Government of Western Australia, once deals have been set in place to approave takertao's fork and backing by Perth Mint is approved.  If not other mints will be sought out for approvals.
 
-See the [PMGT whitepaper](https://pmgt.io/static/assets/pmgt_whitepaper.pdf) for more information.
+See the [PMGT whitepaper](https://pmgt.io/static/assets/pmgt_whitepaper.pdf) for more information until a new whitepaper is uploaded.
 
-# Contract Addresses
+# Contract Addresses until new LiveNet are uploaded...
 
 | Contract  | Ethereum Address                                                                                                      |
 | --------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -17,23 +19,10 @@ See the [PMGT whitepaper](https://pmgt.io/static/assets/pmgt_whitepaper.pdf) for
 | Blacklist | [0xdE40A3c26F3af423E0d0EcC30ead42B140E16B51](https://etherscan.io/address/0xdE40A3c26F3af423E0d0EcC30ead42B140E16B51) |
 | Whitelist | [0x21860dE6d3ba2fAC843f6864a0FAE8e97387bF66](https://etherscan.io/address/0x21860dE6d3ba2fAC843f6864a0FAE8e97387bF66) |
 
-# Links
-
-| Name               | URL                                     |
-| ------------------ | --------------------------------------- |
-| PMGT Website       | https://pmgt.io                         |
-| InfiniGold Website | https://infinigold.com                  |
-| Realtime Audit     | https://pmgt.perthmint.com              |
-| Twitter            | https://twitter.com/pmgoldtoken         |
-| Telegram           | https://t.me/pmgoldtoken                |
-| Medium             | https://medium.com/pmgt                 |
-| Reddit             | https://reddit.com/r/pmgoldtoken        |
-| LinkedIn           | https://linkedin.com/company/infinigold |
-| Facebook           | https://facebook.com/pmgoldtoken        |
 
 # License
 
-The PMGT smart contract code in this repository is released under the [MIT License](./LICENSE).
+The SFGB smart contract code in this repository is released under the [MIT License](./LICENSE).
 
 ## OpenZeppelin Licenses
 
