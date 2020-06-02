@@ -4,7 +4,7 @@ My old identity, this banner below:
 
 ![Perth Mint Gold Token (PMGT)](docs/pmgt_banner.png)
 
-The StarFire Gold Bond fiat token, a Fork of the Perth Mint Gold Token (PMGT) is an ERC20 compliant token, each representing 1 fine troy ounce of physical gold securely stored in The Perth Mint's central bank grade vaults, or another trusted storage, depending on the country of origin.
+The StarFire Gold Bond fiat token (STGB), a Fork of the Perth Mint Gold Token (PMGT) is an ERC20 compliant token, each representing 1 fine troy ounce of physical gold securely stored in The Perth Mint's central bank grade vaults, or another trusted storage, depending on the country of origin.
 
 Developed by InfiniGold originally, and now, by takertao, the tokens are 100% backed by GoldPass certificates issued by The Perth Mint, the world's largest refiner of newly mined gold.  Every ounce of gold is guaranteed by the highly rated sovereign entity - the
 Government of Western Australia, once deals have been set in place to approave takertao's fork and backing by Perth Mint is approved.  If not other mints will be sought out for approvals.
